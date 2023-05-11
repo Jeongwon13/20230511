@@ -32,8 +32,8 @@
     				<fieldset id="id-pw-area">
     					
     					<section>
-    						<input type="text" name="memberEmail" value="${cookie.saveId.value }">
-    						<input type="password" name="memberPw">
+    						<input type="text" name="memberEmail" value="${cookie.saveId.value }" placeholder="아이디">
+    						<input type="password" name="memberPw" placeholder="비밀번호" >
     					</section>
     					<section>
     						<!-- button의 type 기본 값은 submit -->

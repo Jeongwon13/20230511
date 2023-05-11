@@ -14,7 +14,7 @@
     <title>My Page</title>
 
     <link rel="stylesheet" href="${contextPath}/resources/css/main-style.css">
-    <link rel="stylesheet" href="${contextPath}/resources/css/myPage-style.css">
+ <link rel="stylesheet" href="${contextPath}/resources/css/myPageStyle.css">
     <script src="https://kit.fontawesome.com/a2e8ca0ae3.js" crossorigin="anonymous"></script>
 </head>
 <body>
